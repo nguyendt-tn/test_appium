@@ -1,6 +1,8 @@
 # Appium Server
 https://appium.io
 
+# Change your id device to run this project
+
 # Device
 emulator or real device
 
